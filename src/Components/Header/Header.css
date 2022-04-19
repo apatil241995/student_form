@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  height: 50px;
+  background-color: blue;
+}
+
+.header_items {
+  color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  text-decoration: none;
+}

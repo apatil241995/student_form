@@ -1,0 +1,31 @@
+.form-container {
+  text-align: left;
+  width: 100%;
+}
+
+.form-box {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  padding: 40px 40px;
+}
+
+.form-text-box {
+  margin-bottom: 15px !important;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.mb-text {
+  color: rgb(0, 204, 255);
+  font-size: 30px;
+  line-height: 60px;
+  width: fit-content;
+  margin-left: 50px;
+  font-weight: 600;
+}
